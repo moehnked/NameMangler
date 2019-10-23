@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NameMangler</string>
+    <string name="enter_name_hint">Enter your first name</string>
+    <string name="name">Name:</string>
+    <string name="mangle">Mangle!</string>
+    <string name="no_name_toast">please enter a name first!</string>
+    
+    <string name="rn1">Kierkegaard</string>
+    <string name="rn2">Magnificent</string>
+    <string name="rn3">Jung</string>
+    <string name="rn4">Moehnke</string>
+    <string name="rn5">Sartre</string>
+</resources>
